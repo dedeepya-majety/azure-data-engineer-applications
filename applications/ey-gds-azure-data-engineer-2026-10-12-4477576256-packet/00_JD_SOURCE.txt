@@ -1,0 +1,39 @@
+Job Title: EY - GDS Consulting - AI and DATA - Azure Data Engineer - Staff
+Company: EY
+Job ID / LinkedIn ID: 4477576256
+Location: Kolkata, West Bengal, India
+Source URL: https://www.linkedin.com/jobs/view/4477576256/
+Criteria: {'Seniority level': 'Mid-Senior level', 'Employment type': 'Full-time', 'Industries': 'Professional Services'}
+
+Verbatim Job Description:
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+EY GDS – Data and Analytics (D&A) – Azure Data engineers
+As part of our EY-GDS D&A (Data and Analytics) team, we help our clients solve complex business challenges with the help of data and technology. We dive deep into data to extract the greatest value and discover opportunities in key business and functions like Banking, Insurance, Manufacturing, Healthcare, Retail, Manufacturing and Auto, Supply Chain, and Finance.
+The opportunity
+We are currently seeking a seasoned Azure Data Engineer with proven experience in Databricks PySpark to join our team of professionals. The successful candidate will play a key role in our Metadata Management team, providing cutting-edge data management strategies and leveraging their strong analytical skills to solve complex problems.
+Key Responsibilities:
+Participate actively in a team of Engineers and Architects, leading the development of prototypes, conducting proofs of concept, and providing recommendations through the design, development, and/or operation of complex technological environments.
+Collaborate closely with both business and technical resources, meeting requirements with concrete designs and implementing these designs effectively.
+Conduct regular training sessions for our business and technology partners, focusing on enterprise data quality standards, guidelines, and processes.
+Skills and Qualifications Needed:
+Proven experience in managing and delivering large-scale data warehousing projects, preferably involving Azure Synapse or Databricks platform.
+Strong SQL and Python(PySpark) skill is must for the role
+Ability to handle metadata extraction and data integration across a range of resources.
+A degree in computer science or a similar field, with between 3-7 years of practical experience.
+At least 1-3 years of hands-on experience as a developer/designer, specifically with Databricks PySpark and Azure Synapse.
+Strong ability to solve complex problems at scale.
+Experience in integrating systems using ETL or APIs and designing human task workflows.
+Flexible, self-motivated approach with strong commitment to problem resolution.
+Excellent written and oral communication skills, with the ability to deliver complex information in a clear and effective manner to a range of different audiences.
+Willingness to work globally and across different cultures, and to participate in all stages of the data solution delivery lifecycle, including pre-studies, design, development, testing, deployment, and support.
+Data modelling or NoSQL experience will be an added advantage.
+What Working At EY Offers
+At EY, we’re dedicated to helping our clients, from start–ups to Fortune 500 companies — and the work we do with them is as varied as they are.
+You get to work with inspiring and meaningful projects. Our focus is education and coaching alongside practical experience to ensure your personal development. We value our employees and you will be able to control your own development with an individual progression plan. You will quickly grow into a responsible role with challenging and stimulating assignments. Moreover, you will be part of an interdisciplinary environment that emphasizes high quality and knowledge exchange. Plus, we offer:
+Support, coaching and feedback from some of the most engaging colleagues around
+Opportunities to develop new skills and progress your career
+The freedom and flexibility to handle your role in a way that’s right for you
+EY | Building a better working world
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.

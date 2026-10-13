@@ -1,0 +1,13 @@
+Executive Architecture Pitch Deck: Accenture in India
+Candidate: Dedeepya Majety (Azure Data Engineer, 3.9 YOE, Databricks Certified)
+Target Role: Data Engineer (Req: 4476918574)
+Notice Status: Serving Official Notice Period (Available in 30 Days)
+
+Slide 1: Executive Hero & Candidate Coordinates
+Slide 2: Technical Strategy (3 Core Execution Pillars: Modernization, Scale, Governance)
+Slide 3: Production Medallion Lakehouse Architecture (Bronze Auto Loader -> Silver Conformed -> Gold Serving)
+Slide 4: Enterprise Track Record (40% runtime cut, ~30% compute savings, 99.8% SLA, ~15% MDM deduplication)
+Slide 5: PySpark Distributed Tuning & Troubleshooting (Skew salting, broadcast joins, OOM mitigation)
+Slide 6: Enterprise Data Governance (Unity Catalog RBAC, column masking, Informatica MDM golden records)
+Slide 7: My Operating Principles (Mathematical parity, schema drift defense, root-cause tuning, high-agency)
+Slide 8: 30-60-90 Day Value Realization Roadmap for Accenture in India

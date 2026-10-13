@@ -1,0 +1,47 @@
+Job Title: Data Engineer I - Transparency Data Operations
+Company: Bristol Myers Squibb (BMS)
+Requisition Number: R1606573
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/4472765590
+Careers Portal URL: https://careers.bms.com
+Interview Format: Remote (Virtual / Microsoft Teams)
+Date Discovered: 2026-10-03
+
+Verbatim Job Description:
+At Bristol Myers Squibb, our employees often ask, “Who are you working for?”—a question that fuels collaboration, accountability, and urgency in our work. Our purpose-driven culture inspires us to discover, develop, and deliver innovative medicines to prevail over serious diseases. We offer uniquely interesting and meaningful work, opportunities for growth, and a supportive environment that values inclusion, wellbeing, flexibility, and comprehensive benefits. This is work that transforms the lives of patients, and the careers of those who do it.
+
+At Bristol Myers Squibb, transparency isn't just a regulatory obligation — it's a commitment to the patients, healthcare professionals, and communities we serve. As a Data Engineer on our Transparency Data Operations team in Hyderabad, you'll be at the heart of that commitment, building and running the data pipelines that ensure every reportable interaction with healthcare providers and organizations worldwide is captured, validated, and disclosed accurately and on time.
+
+You'll work hands-on with SQL, Python, Databricks, and AWS across a truly global data landscape — moving data reliably, catching issues before they become problems, and automating what's manual today — while collaborating with partners in Legal, Compliance, and Technology to turn evolving regulations into robust, scalable solutions. If you're curious, detail-oriented, and excited to grow in a role where reliability and continuous improvement genuinely matter, we'd love to hear from you.
+
+Purpose of the role and the team:
+- Support end-to-end Transparency Data Operations that enable accurate, complete, timely and compliant disclosure of Transfers of Value to HCPs, HCOs, PAGs and other reportable third parties.
+- Operate and enhance data ingestion, transformation, validation, reconciliation and delivery processes across integrated global source systems and manual data collections.
+- Ensure Transparency data is available and fit for downstream processing in MediSpend, analytics, certification, regulatory reporting and publication.
+- Partner with Global Transparency, Legal, Compliance, regional teams, source-system owners and technology teams to translate new laws, codes and reporting needs into scalable data solutions.
+- Monitor data quality, completeness, timeliness and operational controls; investigate exceptions and drive remediation with upstream and downstream stakeholders.
+- Support new-market deployments, source-system changes, platform modernization, data integrations and automation while maintaining business continuity, traceability and process rigor.
+
+Capabilities:
+- Strong understanding of end-to-end data operations, including ingestion, ETL/ELT, validation, reconciliation, exception handling, monitoring and controlled delivery.
+- Translate reporting requirements into mappings, transformation rules, validation controls, technical specifications and test scenarios.
+- Hands-on analytical and troubleshooting capability using SQL and Python across complex datasets, databases, cloud platforms and pipelines.
+- Strong cross-functional collaboration, documentation, prioritization, communication and problem-solving skills.
+- Continuous-improvement mindset focused on automation, reusable solutions and stronger controls.
+
+Technical Skills:
+- Databases and Programming: SQL, PostgreSQL, Oracle, Python, PySpark
+- AWS Cloud: EC2, S3, IAM, Lambda, RDS, Redshift
+- Data Engineering: Databricks, ETL/ELT, Data Warehousing, Data Quality and Validation
+- Analytics and Development: Power BI, Data Visualization
+- Tools and Practices: Git/GitHub, CI/CD, Agile/Scrum
+
+Experience & Qualification Requirements:
+- Bachelor's degree in Computer Science, Information Technology, Engineering, Data/Analytics or a related field.
+- 1-4 years of experience in data engineering, data operations, software development, business intelligence or a related role.
+- Experience supporting ETL/ELT pipelines, databases, cloud data solutions and scheduled operational processes.
+- Experience with SQL, Python, source-to-target validation, reconciliation and automation.
+- Experience with AWS, Databricks, Oracle/PostgreSQL and Power BI is preferred.
+- Experience with production support, root-cause analysis, reruns, releases and change control.
+- Pharmaceutical, healthcare, compliance, Transparency Reporting or master-data experience is preferred.
+- Ability to manage multiple priorities and support urgent production or reporting needs when required.

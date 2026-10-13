@@ -1,0 +1,68 @@
+Job Title: Data Engineer
+Company: Zoetis, Inc. (Zoetis India Capability Center - ZICC)
+Location: Hyderabad, Telangana, India
+Job ID: 4472331481
+URL: https://www.linkedin.com/jobs/view/4472331481
+Experience Requirement: 3-7 Years
+Date Discovered: 2026-10-03
+Workplace Model: Hybrid (ZICC Hyderabad)
+Interview Format: 100% Remote (Virtual via MS Teams)
+
+Verbatim Job Description:
+POSITION SUMMARY
+Zoetis, Inc. is the world's largest producer of medicine and vaccinations for pets and livestock. The Zoetis Tech & Digital (ZTD) organization is as a key building block of Zoetis comprising of enterprise applications and systems platforms.
+Join us at Zoetis India Capability Center (ZICC) in Hyderabad, where innovation meets excellence. As part of the world's leading animal healthcare company, ZICC is at the forefront of driving transformative advancements and applying technology to solve the most complex problems. Our mission is to ensure sustainable growth and maintain a competitive edge for Zoetis globally by leveraging the exceptional talent in India.
+At ZICC, you'll be part of a dynamic team that partners with colleagues worldwide, embodying the true spirit of One Zoetis. Together, we ensure seamless integration and collaboration, fostering an environment where your contributions can make a real impact. Be a part of our journey to pioneer innovation and drive the future of animal healthcare.
+
+Responsibilities:
+Azure Data Factory & Data Bricks:
+Design and develop data pipelines, workflows, and data transformation processes.
+Integrate various data sources to ensure seamless data flow between systems.
+Optimize data processing and storage for performance and cost-efficiency.
+Databases (SQL, PostgreSQL, Azure Databases):
+Design, implement, and maintain database systems, including PostgreSQL and Azure databases.
+Monitor and optimize database performance.
+Implement robust backup and recovery strategies.
+ETL/ELT Concepts:
+Extract data from various sources.
+Transform data to meet business requirements.
+Load data into target systems efficiently.
+DevOps and Agile Methodologies:
+Implement and manage continuous integration and continuous deployment (CI/CD) pipelines.
+Use Git for version control and collaboration.
+Cross-Team Collaboration:
+Work closely with infrastructure teams to ensure seamless integration and deployment.
+Engage with business partners to understand requirements and deliver solutions in a timely and cost-effective manner.
+Problem-Solving and Attention to Detail:
+Demonstrate excellent problem-solving abilities and attention to detail.
+Identify and resolve issues promptly within SLA guidelines, providing ongoing support to business users.
+
+POSITION RESPONSIBILITIES
+Design and develop data solutions using Azure Data Factory & Data Bricks: 40%
+Oversee ETL/ELT processes along with manage and maintaining ETL/ELT pipelines: 20%
+Cross-Team Collaboration and Learning New Technologies to stay-up to date: 20%
+Dev-ops & Agile methodologies: 10%
+Commercial Business Knowledge across systems like SAP-ERP, Salesforce, Vistex-Rebates, Callidus, Five9 and home-grown application around master data management: 10%
+
+ORGANIZATIONAL RELATIONSHIPS
+Interacting with business stakeholders to gather integration requirements, understand business processes, and ensure that integration solutions align with organizational goals and objectives.
+Work with implementation partners who may be responsible for deploying, configuring, or maintaining integrated solutions within Zoetis IT landscape.
+Coordinate with developers and other members of the team to implement integration solutions, share knowledge, and address technical challenges.
+
+EDUCATION AND EXPERIENCE
+Education:
+Bachelors/master's degree in computer science/applications.
+Experience:
+3-7 years of overall experience in Data Engineering.
+Hands-on experience in Azure Data Factory and Data Bricks.
+Expertise in Python, Databases Management, ETL/ELT Concepts.
+Strong analytical skills, excellent communication abilities, and a proactive approach to problem-solving.
+Knowledge of data analysis, data modelling, data profiling and architecting data analytic solutions.
+DevOps and Agile Methodologies: CI/CD Pipelines, Git, Agile.
+
+TECHNICAL SKILLS REQUIREMENTS
+Azure Data Factory, Data Bricks, ETL/ELT, DB Management, Python, SQL, Viz. Tools, CI/CD pipelines
+
+PHYSICAL POSITION REQUIREMENTS
+Regular working hours are from 11 AM to 8:00 PM IST.
+Sometimes, more overlap with the EST Time zone is required during production go-live.

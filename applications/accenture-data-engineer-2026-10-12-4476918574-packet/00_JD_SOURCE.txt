@@ -1,0 +1,40 @@
+Job Title: Data Engineer
+Company: Accenture in India
+Job ID / LinkedIn ID: 4476918574
+Location: Bengaluru, Karnataka, India
+Source URL: https://www.linkedin.com/jobs/view/4476918574/
+Criteria: {'Seniority level': 'Not Applicable', 'Employment type': 'Full-time', 'Industries': 'IT Services and IT Consulting'}
+
+Verbatim Job Description:
+Project Role :
+Data Engineer
+Project Role Description :
+Design, develop and maintain data solutions for data generation, collection, and processing. Create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems.
+Must have skills :
+Microsoft Azure Databricks
+Good to have skills :
+NA
+Minimum 3 Year(s) Of Experience Is Required
+Educational Qualification :
+15 years full time education
+Summary:
+As a Data Engineer, a typical day involves designing, developing, and maintaining comprehensive data solutions that support data generation, collection, and processing activities. The role includes creating efficient data pipelines and ensuring the seamless migration and deployment of data across various systems. Attention to data quality and the implementation of extract, transform, and load processes are central to daily responsibilities, enabling smooth and reliable data flow within the organization. Collaboration with different teams to support data infrastructure needs and continuous improvement of data handling processes are also key aspects of the role.
+Roles & Responsibilities:
+Expected to perform independently and become an SME.
+Required active participation/contribution in team discussions.
+Contribute in providing solutions to work related problems.
+Collaborate with cross-functional teams to understand data requirements and deliver scalable solutions.
+Monitor and optimize data pipelines to ensure high performance and reliability.
+Document data processes and workflows to maintain clarity and support knowledge sharing.
+Assist junior team members by providing guidance and support in their tasks.
+Professional & Technical Skills:
+Must To Have Skills: Proficiency in Microsoft Azure Databricks.
+Experience with cloud-based data storage and processing platforms.
+Strong knowledge of data pipeline architecture and ETL frameworks.
+Familiarity with scripting languages for data manipulation and automation.
+Understanding of data quality assurance and validation techniques.
+Ability to troubleshoot and resolve data integration issues efficiently.
+Additional Information:
+The candidate should have minimum 3 years of experience in Microsoft Azure Databricks.
+This position is based at our BDC14A - STPI office.
+A 15 years full time education is required.

@@ -1,0 +1,30 @@
+Job Title: DataBricks - Data Engineering
+Company: Wipro
+Location: Bengaluru, Karnataka, India (Request Chennai / Hyderabad / Hybrid)
+Job ID: 4475048865
+URL: https://www.linkedin.com/jobs/view/4475048865
+Experience Requirement: 3-5 Years
+Mandatory Skills: DataBricks - Data Engineering
+Date Discovered: 2026-10-03
+Interview Format: 100% Remote (Virtual via MS Teams)
+
+Verbatim Job Description:
+Job Description:
+Role Purpose:
+The purpose of this role is to develop and test software modules based on client requirements and prepare project documentation while coordinating with cross-functional teams to ensure quality delivery.
+
+Areas of responsibility:
+- Gathering of requirements: Assist in conducting workshops and discussions with client stakeholders to gather business process requirements.
+- Coding and Configuration: Develop and deliver code for assigned modules, in alignment with client requirements ensuring proper integration with system components.
+- Testing and Trial Runs: Execute testing for assigned modules, validate functionality across required interactions, and participate in User Acceptance Testing (UAT) sessions.
+- Implementation: Participate in implementation of software application and its integration with other systems to ensure stability.
+- Maintain Documentation: Prepare detailed reports and documentation on project specifications, activities, and status, while presenting information using flowcharts, layouts, diagrams, code comments, and clear, well-structured code.
+- Stakeholder Collaboration: Collaborate with cross functional teams to understand requirements, support development activities, check system compatibility, and ensure solutions meet expected standards.
+
+Mandatory Skills:
+- DataBricks - Data Engineering
+
+Experience:
+- 3-5 Years
+
+Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.

@@ -1,0 +1,37 @@
+Dedeepya Majety
+Azure Data Engineer | Serving Notice Period (Available in 30 Days)
++91-6281869953 | majetydedeepya0@gmail.com
+Hyderabad / Chennai / Bengaluru, India
+Portfolio: https://dedeepya-majety-portfolio.vercel.app
+LinkedIn: https://linkedin.com/in/dedeepya-majety
+
+Date: October 12, 2026
+To: Talent Acquisition & Hiring Team
+Company: PwC Acceleration Center India
+Role: FS - Data Engineer - Associate (Req: 4467378631)
+Location: Bengaluru East, Karnataka
+
+SUBJECT: APPLICATION FOR FS - Data Engineer - Associate (Req: 4467378631) - Dedeepya Majety
+
+Dear Hiring Manager and PwC Data Platform Leadership,
+
+I am writing to express my high-conviction interest in the FS - Data Engineer - Associate position (Req: 4467378631) with PwC Acceleration Center India. I bring 3.9 years of enterprise data engineering experience at Cognizant Technology Solutions, specializing in building, optimizing, and modernizing cloud data platforms on Microsoft Azure Databricks, PySpark, and Delta Lake. I hold verified credentials as a Databricks Certified Data Engineer Associate (ID: 185421754) and Microsoft Power BI Data Analyst Associate (PL-300).
+
+Under 'What Sets You Apart', your requisition highlights hands-on experience with Databricks workflows, Delta Lake, and Unity Catalog. I have directly architected multi-hop Medallion Lakehouses (Bronze, Silver, Gold), authored modular Apache Airflow DAGs with 99.8% SLA uptime, and configured Unity Catalog for fine-grained table and column-level RBAC. Entering at the top of the Associate band (3.9 YOE), I will accelerate your financial analytics deliverables with zero onboarding drag.
+
+Core Production Levers & Verified Accomplishments:
+1. 40% Pipeline Runtime Reduction: Successfully modernized 40+ legacy Informatica PowerCenter workflows to Azure Databricks Delta Lake and PySpark, reducing cloud compute infrastructure spend by ~30% with 100% verified data parity.
+2. Medallion Lakehouse Engineering: Architected automated Bronze (Auto Loader cloudFiles), Silver (cleaned and deduplicated via PySpark window functions), and Gold (curated star-schema data marts) data pipelines.
+3. 99.8% Pipeline SLA Reliability: Authored modular, production-grade Apache Airflow Python DAGs with automated exponential-backoff retries, error isolation, and operational alerting across ADLS Gen2.
+4. Enterprise Data Governance & MDM: Enforced Databricks Unity Catalog for centralized table- and column-level RBAC and tuned Informatica MDM match-merge trust scores, eliminating ~15% duplicate entities across master records.
+5. Operational BI & Query Optimization: Engineered 6+ executive Power BI dashboards with custom DAX calculations and achieved a 25% query latency reduction through SQL profiling and broadcast join optimization.
+
+A critical operational asset I bring to PwC is my active availability: I am currently serving my official notice period at Cognizant and am available to join within 30 days. This eliminates the standard 90-day onboarding lag common in the Indian hiring market, enabling your team to staff and deploy an experienced, certified data engineer immediately against your active project delivery commitments.
+
+I welcome the opportunity to discuss how my lakehouse engineering and data modernization background can drive reliable, high-performance data pipelines for PwC Acceleration Center India. Thank you for your consideration, and I look forward to speaking with you.
+
+Sincerely,
+Dedeepya Majety
+Azure Data Engineer | Databricks Certified Associate
++91-6281869953 | majetydedeepya0@gmail.com
+https://dedeepya-majety-portfolio.vercel.app
