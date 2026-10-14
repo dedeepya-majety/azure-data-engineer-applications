@@ -92,6 +92,7 @@ Comprehensive, interview-ready viva guides, system design defenses, live coding 
 
 | Dossier | Focus & Target | Formats |
 | :--- | :--- | :--- |
+| **Gemini Voice Study Companion (Amgen Deep-Dive)** | Conversational Voice Mode Study Guide, Cognizant-Amgen Commercial Lakehouse, Medallion Architecture, "Rosetta Stone" Work-to-Jargon Translation, Telugu Conceptual Anchors | [PDF](interview-prep/DEDEEPYA_GEMINI_VOICE_STUDY_COMPANION.pdf) · [Markdown](interview-prep/DEDEEPYA_GEMINI_VOICE_STUDY_COMPANION.md) |
 | **Master Technical & Architectural Dossier** | Complete Viva, PySpark Engine, Delta Internals, Medallion HLD, Spark UI Skew/OOM Troubleshooting, ADF/Airflow, Unity Catalog, Live Coding | [PDF](interview-prep/DEDEEPYA_INTERVIEW_PREP_MASTER_DOSSIER.pdf) · [Markdown](interview-prep/DEDEEPYA_INTERVIEW_PREP_MASTER_DOSSIER.md) |
 | **30-Minute Pre-Interview Quick-Recall Sheet** | 60-Sec Opening Hook, Core Production Metrics, 10 Golden 1-Sentence Viva Answers, PySpark Syntax Flashcards, Notice/Comp Negotiation | [PDF](interview-prep/30_MIN_PRE_INTERVIEW_CHEATSHEET.pdf) · [Markdown](interview-prep/30_MIN_PRE_INTERVIEW_CHEATSHEET.md) |
 | **EY GDS Interview Dossier** | Metadata Management, Informatica MDM Match/Merge, Unity Catalog Lineage, Legacy-to-Lakehouse Migration | [PDF](interview-prep/EY_GDS_AZURE_DATA_ENGINEER_DOSSIER.pdf) · [Markdown](interview-prep/EY_GDS_AZURE_DATA_ENGINEER_DOSSIER.md) |
