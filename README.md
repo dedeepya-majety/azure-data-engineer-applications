@@ -92,6 +92,8 @@ Comprehensive, interview-ready viva guides, system design defenses, live coding 
 
 | Dossier | Focus & Target | Formats |
 | :--- | :--- | :--- |
+| **Interactive Lakehouse Simulator (Web App)** | Hands-On Browser Simulator: Live Medallion Flow, Spark UI Skew Slider & Salting Fix, Delta Transaction Log & Time Travel | [Open Simulator HTML](interview-prep/simulators/amgen_lakehouse_simulator.html) |
+| **NotebookLM & Interactive Learning Guide** | Google NotebookLM Audio Overview (Podcast Setup), AI Study Guide & Quizzes, Visual Simulator Instructions | [PDF](interview-prep/NOTEBOOKLM_AND_INTERACTIVE_LEARNING_GUIDE.pdf) · [Markdown](interview-prep/NOTEBOOKLM_AND_INTERACTIVE_LEARNING_GUIDE.md) |
 | **Gemini Voice Study Companion (Amgen Deep-Dive)** | Conversational Voice Mode Study Guide, Cognizant-Amgen Commercial Lakehouse, Medallion Architecture, "Rosetta Stone" Work-to-Jargon Translation, Telugu Conceptual Anchors | [PDF](interview-prep/DEDEEPYA_GEMINI_VOICE_STUDY_COMPANION.pdf) · [Markdown](interview-prep/DEDEEPYA_GEMINI_VOICE_STUDY_COMPANION.md) |
 | **Master Technical & Architectural Dossier** | Complete Viva, PySpark Engine, Delta Internals, Medallion HLD, Spark UI Skew/OOM Troubleshooting, ADF/Airflow, Unity Catalog, Live Coding | [PDF](interview-prep/DEDEEPYA_INTERVIEW_PREP_MASTER_DOSSIER.pdf) · [Markdown](interview-prep/DEDEEPYA_INTERVIEW_PREP_MASTER_DOSSIER.md) |
 | **30-Minute Pre-Interview Quick-Recall Sheet** | 60-Sec Opening Hook, Core Production Metrics, 10 Golden 1-Sentence Viva Answers, PySpark Syntax Flashcards, Notice/Comp Negotiation | [PDF](interview-prep/30_MIN_PRE_INTERVIEW_CHEATSHEET.pdf) · [Markdown](interview-prep/30_MIN_PRE_INTERVIEW_CHEATSHEET.md) |
